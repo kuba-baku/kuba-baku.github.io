@@ -6,11 +6,12 @@ theme: minima
 ---
 
 Vážení, obracím se Vás s poptávkou telekomunikačních služeb pro mou firmu.  
-Tuto poptávku chci udělat formou japonské aukce, což znamená, že Vám vždy po konci kola pošlu aktualizované ceny podle nejlepší nabídky (anonymně).  
-Doufám, že to bude výhodné pro obě strany. Mně to ušetří individuální obepisování a Vy si můžete rozmyslet, jestli jste ještě schopni nabídnout nižší cenu a podle toho reagovat.  
+Tuto poptávku chci zkusit formou japonské aukce, což znamená, že budete znát ceny z nejlepší nabídky (anonymně).  
+Doufám, že to bude výhodné pro obě strany. Mně to ušetří individuální obepisování a Vy si můžete rozmyslet, jestli jste ještě schopni nabídnout nižší cenu a podle toho reagovat.   
 Informace budou průběžně aktualizovány na stránce https://kuba-baku.github.io/telco-poptavka.html  
-Na konci kola pošlu aktualizaci všem zúčastněným, aby měli v dalším kole příležitost nabídnout nižší cenu.  
-Předem děkuji za případné nabídky.  
+Na konci kola pošlu aktualizaci všem kdo podali nabídku, aby měli v dalším kole příležitost nabídnout nižší cenu.  
+Pokud do konce dalšího kola nedostanu lepší nabídku, tak vyhrává vítěz minulého kola.  
+Předem děkuji za případné nabídky a za pochopení pro tuto nezvyklou formu.  
 S pozdravem  
 
 Jakub Svoboda
@@ -75,3 +76,4 @@ Odpovědi stačí velmi jednoduše, např.:
 - Pokud budou některé služby pouze v balíčku, např. Internet + TV, tak nevadí, cenu si orientačně sám rozdělím.
 - Pokud bude u služeb nějaký závazek nebo jiné podmínky, tak je prosím stručně uveďte.
 
+**Děkuji!**
