@@ -1,7 +1,3 @@
-layout: page
-title: "Poptávka telekomunikačních služeb"
-permalink: /telco-poptavka
-
 # Poptávka telekomunikačních služeb
 
 Vážení, obracím se Vás s poptávkou telekomunikačních služeb pro mou firmu.  
