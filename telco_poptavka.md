@@ -1,3 +1,8 @@
+layout: page
+title: "Poptávka telekomunikačních služeb"
+permalink: /telco-poptavka
+theme: minima
+
 # Poptávka telekomunikačních služeb
 
 Vážení, obracím se Vás s poptávkou telekomunikačních služeb pro mou firmu.  
