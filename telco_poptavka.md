@@ -5,11 +5,11 @@ permalink: /telco-poptavka
 theme: minima
 ---
 
-# Poptávka telekomunikačních služeb
-
 Vážení, obracím se Vás s poptávkou telekomunikačních služeb pro mou firmu.  
 Tuto poptávku chci udělat formou japonské aukce, což znamená, že Vám vždy po konci kola pošlu aktualizované ceny podle nejlepší nabídky (anonymně).  
 Doufám, že to bude výhodné pro obě strany. Mně to ušetří individuální obepisování a Vy si můžete rozmyslet, jestli jste ještě schopni nabídnout nižší cenu a podle toho reagovat.  
+Informace budou průběžně aktualizovány na stránce https://kuba-baku.github.io/telco-poptavka.html  
+Na konci kola pošlu aktualizaci všem zúčastněným, aby měli v dalším kole příležitost nabídnout nižší cenu.  
 Předem děkuji za případné nabídky.  
 S pozdravem  
 
@@ -17,7 +17,7 @@ Jakub Svoboda
 
 ## Aukce
 ### 1. kolo
-- **Konec <ins>5.1.2024</ins>**
+- **Konec <ins>12.1.2024</ins>**
 - **17 oslovených firem**
 - **1 nabídka**
 
